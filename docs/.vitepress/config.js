@@ -1,4 +1,5 @@
 export default {
+  outDir: "dist",
   title: "VitePress",
   description: "Just playing around.",
   lastUpdated: true,
